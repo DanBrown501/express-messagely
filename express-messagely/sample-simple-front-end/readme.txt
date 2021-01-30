@@ -1,5 +1,3 @@
-# express-messagely
- 
 This is a demo sample front-end for messagely.
 
 To start it:
